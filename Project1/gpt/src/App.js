@@ -1,5 +1,7 @@
 import React from 'react'
 
+import { Footer } from './containers';
+import { Article, Brands } from './components';
 const App = () => {
     return (
         <div>
