@@ -15,10 +15,10 @@ const Possibility = () => {
           The possibilities are beyond your imagination
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          GPT-3 opens up possibilities that extend far beyond imagination,
+          revolutionizing how we interact with AI, enabling new applications,
+          and pushing the boundaries of what is possible in language
+          understanding and generation.
         </p>
         <h4>Request Early Access to Get Started</h4>
       </div>

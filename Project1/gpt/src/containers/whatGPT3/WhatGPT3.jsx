@@ -8,7 +8,7 @@ const WhatGPT3 = () => {
         <Feature
           title={"What is GPT-3"}
           text={
-            "We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+            "GPT-3 (Generative Pre-trained Transformer 3) is a cutting-edge language model developed by OpenAI. With 175 billion parameters, it is one of the largest and most advanced AI models, capable of generating human-like text, understanding context, and assisting in a wide range of tasks, from translation to content generation."
           }
         />
       </div>
@@ -22,19 +22,19 @@ const WhatGPT3 = () => {
         <Feature
           title={"Chatbots"}
           text={
-            "We so opinion friends me message as delight. Whole front do of plate heard oh ought. "
+            "Enhancing communication, simplifying tasks, and providing personalized assistance through intelligent conversation. "
           }
         />
         <Feature
           title={"Knowledge base"}
           text={
-            "At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+            "Augmenting GPT-3 Open AI with a comprehensive knowledge base for accurate and insightful responses."
           }
         />
         <Feature
           title={"Education"}
           text={
-            "At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+            "Empowering education by leveraging GPT-3 Open AI to provide personalized learning, answer questions, and foster intellectual growth."
           }
         />
       </div>

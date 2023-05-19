@@ -4,20 +4,20 @@ import Feature from "../../components/feature/Feature";
 
 const featuresData = [
   {
-    title: "Improving end distrusts instantly",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    title: "Language Understanding",
+    text: "GPT-3 Open AI demonstrates remarkable language understanding, comprehending prompts, context, and nuances, allowing it to generate coherent and contextually relevant responses.",
   },
   {
-    title: "Become the tended active",
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+    title: "Creative Writing",
+    text: "GPT-3 Open AI exhibits creative writing abilities, capable of generating unique and engaging content across various genres, styles, and topics, inspiring new possibilities for automated storytelling and content creation.",
   },
   {
-    title: "Message or am nothing",
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+    title: "Problem Solving",
+    text: "GPT-3 Open AI can assist in problem-solving tasks by providing insights, suggestions, and generating potential solutions based on the information provided, offering a valuable resource for decision-making and brainstorming.",
   },
   {
-    title: "Really boy law county",
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..",
+    title: "Virtual Assistants",
+    text: "GPT-3 Open AI can be integrated into virtual assistant applications, providing users with conversational interactions, answering questions, performing tasks, and offering personalized recommendations, enhancing user experiences and productivity in various domains.",
   },
 ];
 
