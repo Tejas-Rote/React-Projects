@@ -56,5 +56,6 @@ npm start
     
 ## Screenshots
 
-![GPT-3 screenshot](https://www.awesomescreenshot.com/image/40005528?key=f9b803aaf6eafae6757b44333702d833)
+![gpt3](https://github.com/Tejas-Rote/React-Projects/assets/76241687/ae3ffdea-f2ad-4dca-9e95-db7e54a3ad10)
+
 
