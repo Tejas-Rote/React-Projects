@@ -56,5 +56,5 @@ npm start
     
 ## Screenshots
 
-![GPT-3 screenshot](https://github.com/Tejas-Rote/React-Projects/blob/master/gpt3.png?raw=true)
+![GPT-3 screenshot](https://www.awesomescreenshot.com/image/40005528?key=f9b803aaf6eafae6757b44333702d833)
 
