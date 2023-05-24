@@ -55,7 +55,8 @@ npm start
 ```
     
 ## Screenshots
+![gpt](https://github.com/Tejas-Rote/React-Projects/assets/76241687/db3e9709-259d-4484-8793-7a7b575407fa)
 
-![gpt3](https://github.com/Tejas-Rote/React-Projects/assets/76241687/ae3ffdea-f2ad-4dca-9e95-db7e54a3ad10)
+<!-- ![gpt3](https://github.com/Tejas-Rote/React-Projects/assets/76241687/ae3ffdea-f2ad-4dca-9e95-db7e54a3ad10) -->
 
 
