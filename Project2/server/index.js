@@ -12,6 +12,12 @@ import generalRoutes from './routes/general.js'
 import managementRoutes from './routes/management.js'
 import salesRoutes from './routes/sales.js'
 
+
+// data imports
+import User from './models/User.js'
+import { dataUser } from './data/index.js'
+
+
 // configs
 dotenv.config();
 const app = express();
@@ -47,6 +53,7 @@ mongoose
         // Product.insertMany(dataProduct);
         // ProductStat.insertMany(dataProductStat);
         // Transaction.insertMany(dataTransaction);
+
         // User.insertMany(dataUser);
 
     })
